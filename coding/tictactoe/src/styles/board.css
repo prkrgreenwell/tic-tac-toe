@@ -1,0 +1,33 @@
+.square {
+  background-color: white;
+  font-size: 5rem;
+  font-weight: bold;
+  min-width: 190px;
+  min-height: 190px;
+
+  vertical-align: top;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.banner {
+  font-size: 4rem;
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+.newGame {
+  font-size: x-large;
+  background-color: yellow;
+  border-radius: 25px;
+  padding: 1rem;
+}
